@@ -1,0 +1,23 @@
+Platform Name: OpenCL
+Platform Speed: 50.0
+Platform Property Names: ('DeviceIndex', 'DeviceName', 'OpenCLPlatformIndex', 'OpenCLPlatformName', 'Precision', 'UseCpuPme', 'DisablePmeStream')
+DeviceIndex Value: 0
+DeviceName Value: Apple M1 Max
+OpenCLPlatformIndex Value: 0
+OpenCLPlatformName Value: Apple
+Precision Value: single
+UseCpuPme Value: false
+DisablePmeStream Value: false
+
+Simulation name: rep2
+Number of beads: 20, Number of chains: 1
+Potential energy: 24.18374, Kinetic Energy: 1.63842 at temperature: 1.0
+
+Potential energy per forceGroup:
+                               Values
+FENEBond                  416.756042
+AngleForce                 64.028503
+RepulsiveSoftCore          40.874043
+CustomTypes               -37.983913
+FlatBottomHarmonic          0.000000
+Potential Energy (total)  483.674704

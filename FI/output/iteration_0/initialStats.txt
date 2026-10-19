@@ -1,0 +1,18 @@
+Platform Name: CPU
+Platform Speed: 10.0
+Platform Property Names: ('Threads', 'DeterministicForces')
+Threads Value: 10
+DeterministicForces Value: false
+
+Simulation name: rep2
+Number of beads: 20, Number of chains: 1
+Potential energy: 24.03923, Kinetic Energy: 1.16338 at temperature: 1.0
+
+Potential energy per forceGroup:
+                               Values
+FENEBond                  416.755999
+AngleForce                 64.028502
+RepulsiveSoftCore           0.000000
+CustomTypes                 0.000000
+FlatBottomHarmonic          0.000000
+Potential Energy (total)  480.784501

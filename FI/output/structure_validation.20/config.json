@@ -1,0 +1,15 @@
+{
+  "lambda_iteration": 20,
+  "lambda_file": "input/lambda_20",
+  "lambda_sha256": "bcd165f8f809f8a2cf7e30e531afdb0d5640e5dd4f9a9dadb5a675c7bf63fb4e",
+  "platform": "OpenCL",
+  "replicas": 2,
+  "stride": 1000,
+  "confined_blocks": 10,
+  "burnin_blocks": 100,
+  "production_blocks": 300,
+  "dt": 0.01,
+  "temperature": 1.0,
+  "mu": 3.22,
+  "rc": 1.78
+}

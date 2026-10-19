@@ -1,0 +1,14 @@
+# Local environments and caches
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Generated outputs from the introductory tutorial (FI results are included)
+single/output_chr10/
+single/gif_colapso/
+single/gif_simulacao/
+single/*.gif
+
+# Downloadable result archives
+*_results.zip
